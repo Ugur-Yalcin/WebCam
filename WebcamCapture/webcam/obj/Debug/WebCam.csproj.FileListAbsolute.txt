@@ -1,0 +1,35 @@
+C:\Users\Ugur\Desktop\csharp_webcam_capture\WebCam\WebCam\obj\Debug\WindowsApplication1.exe
+C:\Users\Ugur\Desktop\csharp_webcam_capture\WebCam\WebCam\obj\Debug\WindowsApplication1.pdb
+G:\DESKTOP\PROGRAMMIERUNG\C#\C# DENEME\WebCam\WebCam\obj\Debug\WindowsApplication1.exe
+G:\DESKTOP\PROGRAMMIERUNG\C#\C# DENEME\WebCam\WebCam\obj\Debug\WindowsApplication1.pdb
+G:\DESKTOP\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\WindowsApplication1.exe
+G:\DESKTOP\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\WindowsApplication1.pdb
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\WindowsApplication1.exe
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\WindowsApplication1.pdb
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\bin\Debug\WindowsApplication1.exe
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\bin\Debug\WindowsApplication1.pdb
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\ResolveAssemblyReference.cache
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\WindowsApplication1.Form1.resources
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\PROGRAMMIERUNG\C#\C# DENEME\WEBCAM\WebCamCapture\WebCam\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\C#_PROGRAMLAMA\C#_CALISMALARIM\webcam\webcamcapture\WebCam\obj\Debug\WindowsApplication1.exe
+D:\C#_PROGRAMLAMA\C#_CALISMALARIM\webcam\webcamcapture\WebCam\obj\Debug\WindowsApplication1.pdb
+D:\C#_PROGRAMLAMA\C#_CALISMALARIM\webcam\webcamcapture\WebCam\bin\Debug\WindowsApplication1.exe
+D:\C#_PROGRAMLAMA\C#_CALISMALARIM\webcam\webcamcapture\WebCam\bin\Debug\WindowsApplication1.pdb
+D:\C#_PROGRAMLAMA\C#_CALISMALARIM\webcam\webcamcapture\WebCam\obj\Debug\WebCam.csprojResolveAssemblyReference.cache
+D:\C#_PROGRAMLAMA\C#_CALISMALARIM\webcam\webcamcapture\WebCam\obj\Debug\WindowsApplication1.Form1.resources
+D:\C#_PROGRAMLAMA\C#_CALISMALARIM\webcam\webcamcapture\WebCam\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\C#_PROGRAMLAMA\C#_CALISMALARIM\webcam\webcamcapture\WebCam\obj\Debug\WebCam.csproj.GenerateResource.Cache
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WebCam.csproj.AssemblyReference.cache
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WindowsApplication1.Form1.resources
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WebCam.csproj.GenerateResource.cache
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WebCam.csproj.CoreCompileInputs.cache
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WebCam.csproj.CopyComplete
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\bin\Debug\WebCam.exe.config
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\bin\Debug\WebCam.exe
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\bin\Debug\WebCam.pdb
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WebCam.csproj.SuggestedBindingRedirects.cache
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WebCam.exe
+D:\HOBBYS\C#_PROGRAMLAMA\C#_CALISMALARIM\WEB_CAM\WebcamCapture\WebCam\obj\Debug\WebCam.pdb
